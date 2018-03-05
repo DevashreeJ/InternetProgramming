@@ -1,0 +1,93 @@
+D:\Dropbox\Dropbox\Teaching SU\CSE 400\__Shared CSE 400\7 Week 7\Code - 02 - BasicRestApplication\TestClient\bin\Debug\TestClient.exe.config
+D:\Dropbox\Dropbox\Teaching SU\CSE 400\__Shared CSE 400\7 Week 7\Code - 02 - BasicRestApplication\TestClient\bin\Debug\TestClient.exe
+D:\Dropbox\Dropbox\Teaching SU\CSE 400\__Shared CSE 400\7 Week 7\Code - 02 - BasicRestApplication\TestClient\bin\Debug\TestClient.pdb
+D:\Dropbox\Dropbox\Teaching SU\CSE 400\__Shared CSE 400\7 Week 7\Code - 02 - BasicRestApplication\TestClient\bin\Debug\Data.dll
+D:\Dropbox\Dropbox\Teaching SU\CSE 400\__Shared CSE 400\7 Week 7\Code - 02 - BasicRestApplication\TestClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\Dropbox\Dropbox\Teaching SU\CSE 400\__Shared CSE 400\7 Week 7\Code - 02 - BasicRestApplication\TestClient\bin\Debug\Newtonsoft.Json.dll
+D:\Dropbox\Dropbox\Teaching SU\CSE 400\__Shared CSE 400\7 Week 7\Code - 02 - BasicRestApplication\TestClient\bin\Debug\Data.pdb
+D:\Dropbox\Dropbox\Teaching SU\CSE 400\__Shared CSE 400\7 Week 7\Code - 02 - BasicRestApplication\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\Teaching SU\CSE 400\__Shared CSE 400\7 Week 7\Code - 02 - BasicRestApplication\TestClient\obj\Debug\TestClient.exe
+D:\Dropbox\Dropbox\Teaching SU\CSE 400\__Shared CSE 400\7 Week 7\Code - 02 - BasicRestApplication\TestClient\obj\Debug\TestClient.pdb
+D:\Dropbox\Dropbox\Teaching SU\CSE 400\__Shared CSE 400\7 Week 7\Code - 02 - BasicRestApplication\TestClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\Dropbox\Dropbox\Teaching SU\CSE 400\__Shared CSE 400\7 Week 7\Code - 02 - BasicRestApplication\TestClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\doomhmmr\Desktop\CSE686\11 Week 11 - Web Services\Code - 02 - BasicRestApplication\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\doomhmmr\Desktop\CSE686\11 Week 11 - Web Services\Code - 02 - BasicRestApplication\TestClient\obj\Debug\TestClient.exe
+C:\Users\doomhmmr\Desktop\CSE686\11 Week 11 - Web Services\Code - 02 - BasicRestApplication\TestClient\obj\Debug\TestClient.pdb
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\12 Week 12 - Web Services\Code - 02 - BasicRestApplication\TestClient\bin\Debug\TestClient.exe.config
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\12 Week 12 - Web Services\Code - 02 - BasicRestApplication\TestClient\obj\Debug\TestClient.exe
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\12 Week 12 - Web Services\Code - 02 - BasicRestApplication\TestClient\obj\Debug\TestClient.pdb
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\07 Week 7 - Web Services\Code - 02 - BasicRestApplication\TestClient\bin\Debug\TestClient.exe.config
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\07 Week 7 - Web Services\Code - 02 - BasicRestApplication\TestClient\obj\Debug\TestClient.exe
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\07 Week 7 - Web Services\Code - 02 - BasicRestApplication\TestClient\obj\Debug\TestClient.pdb
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\07 Week 7 - Web Services\Code - 03 - BasicRestApplication\TestClient\bin\Debug\TestClient.exe.config
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\07 Week 7 - Web Services\Code - 03 - BasicRestApplication\TestClient\obj\Debug\TestClient.exe
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\07 Week 7 - Web Services\Code - 03 - BasicRestApplication\TestClient\obj\Debug\TestClient.pdb
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\07 Week 7 - Web Services\Code - 03 - BasicRestApplication\TestClient\bin\Debug\TestClient.exe
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\07 Week 7 - Web Services\Code - 03 - BasicRestApplication\TestClient\bin\Debug\TestClient.pdb
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\07 Week 7 - Web Services\Code - 03 - BasicRestApplication\TestClient\bin\Debug\Data.dll
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\07 Week 7 - Web Services\Code - 03 - BasicRestApplication\TestClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\07 Week 7 - Web Services\Code - 03 - BasicRestApplication\TestClient\bin\Debug\Newtonsoft.Json.dll
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\07 Week 7 - Web Services\Code - 03 - BasicRestApplication\TestClient\bin\Debug\Data.pdb
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\07 Week 7 - Web Services\Code - 03 - BasicRestApplication\TestClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\07 Week 7 - Web Services\Code - 03 - BasicRestApplication\TestClient\bin\Debug\Newtonsoft.Json.xml
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\07 Week 7 - Web Services\Code - 03 - BasicRestApplication\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\10 Week 11 - Web Services\Code - 03 - BasicRestApplication\TestClient\bin\Debug\TestClient.exe.config
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\10 Week 11 - Web Services\Code - 03 - BasicRestApplication\TestClient\obj\Debug\TestClient.exe
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\10 Week 11 - Web Services\Code - 03 - BasicRestApplication\TestClient\obj\Debug\TestClient.pdb
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\10 Week 11 - Web Services\Code - 03 - BasicRestApplication\TestClient\bin\Debug\TestClient.exe
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\10 Week 11 - Web Services\Code - 03 - BasicRestApplication\TestClient\bin\Debug\TestClient.pdb
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\10 Week 11 - Web Services\Code - 03 - BasicRestApplication\TestClient\bin\Debug\Data.dll
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\10 Week 11 - Web Services\Code - 03 - BasicRestApplication\TestClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\10 Week 11 - Web Services\Code - 03 - BasicRestApplication\TestClient\bin\Debug\Newtonsoft.Json.dll
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\10 Week 11 - Web Services\Code - 03 - BasicRestApplication\TestClient\bin\Debug\Data.pdb
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\10 Week 11 - Web Services\Code - 03 - BasicRestApplication\TestClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\10 Week 11 - Web Services\Code - 03 - BasicRestApplication\TestClient\bin\Debug\Newtonsoft.Json.xml
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\10 Week 11 - Web Services\Code - 03 - BasicRestApplication\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\10 Week 11 - Web Services\Code - 02 - BasicRestApplication\TestClient\bin\Debug\TestClient.exe.config
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\10 Week 11 - Web Services\Code - 02 - BasicRestApplication\TestClient\obj\Debug\TestClient.exe
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\10 Week 11 - Web Services\Code - 02 - BasicRestApplication\TestClient\obj\Debug\TestClient.pdb
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\10 Week 11 - Web Services\Code - 02 - BasicRestApplication\TestClient\bin\Debug\TestClient.exe
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\10 Week 11 - Web Services\Code - 02 - BasicRestApplication\TestClient\bin\Debug\TestClient.pdb
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\10 Week 11 - Web Services\Code - 02 - BasicRestApplication\TestClient\bin\Debug\Data.dll
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\10 Week 11 - Web Services\Code - 02 - BasicRestApplication\TestClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\10 Week 11 - Web Services\Code - 02 - BasicRestApplication\TestClient\bin\Debug\Newtonsoft.Json.dll
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\10 Week 11 - Web Services\Code - 02 - BasicRestApplication\TestClient\bin\Debug\Data.pdb
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\10 Week 11 - Web Services\Code - 02 - BasicRestApplication\TestClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\10 Week 11 - Web Services\Code - 02 - BasicRestApplication\TestClient\bin\Debug\Newtonsoft.Json.xml
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\10 Week 11 - Web Services\Code - 02 - BasicRestApplication\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\RestProject\Code - 02 - BasicRestApplication\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\RestProject\Code - 02 - BasicRestApplication\TestClient\obj\Debug\TestClient.exe
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\RestProject\Code - 02 - BasicRestApplication\TestClient\obj\Debug\TestClient.pdb
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\RestProject\Code - 02 - BasicRestApplication\TestClient\bin\Debug\TestClient.exe
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\RestProject\Code - 02 - BasicRestApplication\TestClient\bin\Debug\TestClient.pdb
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\RestProject\Code - 02 - BasicRestApplication\TestClient\bin\Debug\Data.dll
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\RestProject\Code - 02 - BasicRestApplication\TestClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\RestProject\Code - 02 - BasicRestApplication\TestClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\RestProject\Code - 02 - BasicRestApplication\TestClient\bin\Debug\Data.pdb
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\RestProject\Code - 02 - BasicRestApplication\TestClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\RestProject\Code - 02 - BasicRestApplication\TestClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\RestProject\Code - 02 - BasicRestApplication\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\RestProject\Code - 02 - BasicRestApplication\TestClient\bin\Debug\ExecutableProj.exe
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\RestProject\Code - 02 - BasicRestApplication\TestClient\bin\Debug\Tempdata.dll
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\RestProject\Code - 02 - BasicRestApplication\TestClient\bin\Debug\EntityFramework.dll
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\RestProject\Code - 02 - BasicRestApplication\TestClient\bin\Debug\ExecutableProj.pdb
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\RestProject\Code - 02 - BasicRestApplication\TestClient\bin\Debug\Tempdata.pdb
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\RestProject\Code - 02 - BasicRestApplication\TestClient\bin\Debug\EntityFramework.xml
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\RestProject\Code - 02 - BasicRestApplication\TestClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\RestProject\Code - 02 - BasicRestApplication\TestClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\WebApplication1\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\WebApplication1\TestClient\bin\Debug\TestClient.exe
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\WebApplication1\TestClient\bin\Debug\TestClient.pdb
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\WebApplication1\TestClient\bin\Debug\Data.dll
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\WebApplication1\TestClient\bin\Debug\ExecutableProj.exe
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\WebApplication1\TestClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\WebApplication1\TestClient\bin\Debug\Tempdata.dll
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\WebApplication1\TestClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\WebApplication1\TestClient\bin\Debug\ExecutableProj.pdb
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\WebApplication1\TestClient\bin\Debug\Data.pdb
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\WebApplication1\TestClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\WebApplication1\TestClient\bin\Debug\Tempdata.pdb
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\WebApplication1\TestClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\WebApplication1\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\WebApplication1\TestClient\obj\Debug\TestClient.exe
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\WebApplication1\TestClient\obj\Debug\TestClient.pdb

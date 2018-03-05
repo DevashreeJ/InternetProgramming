@@ -1,0 +1,37 @@
+﻿
+@model List<Tempdata.IndividualEntity>
+<head>
+    <link rel="stylesheet" type="text/css" href="~/styling.css">
+</head>
+<body>
+    <br><br><br><br>
+    <h2>All Users</h2>
+
+<table align="center", border="1">
+    <tr>
+        <th><h4>Id</h4></th>
+        <th><h4>FirstName</h4></th>
+        <th><h4>LastName</h4></th>        
+    </tr>
+
+    @foreach (Tempdata.IndividualEntity item in Model)
+    {
+        <tr>
+            <td><h5>@item.IndividualEntityId</h5></td>
+            <td><h5>@item.FirstName</h5></td>
+            <td><h5>@item.LastName</h5></td>
+        </tr>
+    }
+</table>
+</body>
+<div style="text-align:center">
+    <br><br>
+    <h5> @Html.ActionLink("Back to Admin Page", "AdminPage")</h5>
+</div>
+<style type="text/css">
+  th,  td {
+        padding: 0 15px 0 15px;
+    }
+</style>
+
+   

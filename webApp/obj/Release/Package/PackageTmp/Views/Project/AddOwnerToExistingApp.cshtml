@@ -1,0 +1,40 @@
+﻿@model temporary.Models.AddOwnerListModel
+
+@{
+    ViewBag.Title = "AddOwnerToExistingApp";
+}
+
+<head>
+    <link rel="stylesheet" type="text/css" href="~/styling.css">
+</head>
+<br><br>
+<h2>Grant Ownership</h2>
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        
+        <hr />
+        <label for="Application">Select Application</label> &nbsp;&nbsp;
+        @Html.DropDownListFor(m => m.selectedApplication, Model.Applications
+                , "Select")
+
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <label for="Username">Select User</label> &nbsp;&nbsp;
+        @Html.DropDownListFor(m => m.selectedUsername,
+                     Model.Usernames, "Select")<br>
+        <br><br>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Grant ownership" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+ <br><br>
+
+}
+ <div>
+    <h5> @Html.ActionLink("Back to Admin Page", "AdminPage")</h5>
+</div>

@@ -1,0 +1,7 @@
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\IP_Project_Copy\ErrorLoggerModel\bin\Debug\ErrorLoggerModel.dll
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\IP_Project_Copy\ErrorLoggerModel\bin\Debug\ErrorLoggerModel.pdb
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\IP_Project_Copy\ErrorLoggerModel\bin\Debug\log4net.dll
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\IP_Project_Copy\ErrorLoggerModel\bin\Debug\log4net.xml
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\IP_Project_Copy\ErrorLoggerModel\obj\Debug\ErrorLoggerModel.dll
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\IP_Project_Copy\ErrorLoggerModel\obj\Debug\ErrorLoggerModel.pdb
+C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\IP-Projects\IP_Project_Copy\ErrorLoggerModel\obj\Debug\ErrorLoggerModel.csprojResolveAssemblyReference.cache

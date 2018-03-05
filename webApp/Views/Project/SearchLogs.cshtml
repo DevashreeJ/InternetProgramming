@@ -1,0 +1,34 @@
+﻿@model temporary.Models.SearchLogsModel
+
+@{
+    ViewBag.Title = "SearchLogs";
+}
+
+
+<head>
+    <link rel="stylesheet" type="text/css" href="~/styling.css">
+</head>
+
+<h2>Search Logs by Level</h2>
+<br><br>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+
+        <label for="Username">Select Username</label> &nbsp;&nbsp;
+        @Html.DropDownListFor(m => m.loglevel, Model.LoglevelList
+                , "Select")
+
+        <br><br>
+
+        <input type="submit" value="View Result" class="btn btn-default" />
+    </div>
+    <br>
+}
+
+<div>
+    <h5> @Html.ActionLink("Back to user page", "ShowAppsToUsers")</h5>
+</div>
+

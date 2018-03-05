@@ -1,0 +1,40 @@
+﻿@model List<temporary.Models.ApplicationDisplay>    
+
+<head>
+    <link rel="stylesheet" type="text/css" href="~/styling.css">
+</head>
+<body>
+    <h2>All Applications</h2>
+    <br><br />
+    <table align="center", border="1">
+        <tr>
+            <th>Application Id</th>
+            <th>Application Name</th>     
+            <th>Application Owners </th>      
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ApplicationId</td>
+                <td>@item.ApplicationName</td>   
+               @foreach (var owners in item.ApplicationOwners)
+               {
+                   <td>@owners</td>    
+               }
+            </tr>
+        }
+    </table>
+</body>
+<div style="text-align:center">
+    <br><br>
+    <h5> @Html.ActionLink("Back to Admin Page", "AdminPage")</h5>
+</div>
+
+<style type="text/css">
+    th, td {
+        padding: 0 15px 0 15px;
+    }
+</style>
+
+

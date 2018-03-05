@@ -1,0 +1,10 @@
+C:\Users\doomhmmr\Desktop\BasicRestApplication\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\doomhmmr\Desktop\BasicRestApplication\TestClient\obj\Debug\TestClient.exe
+C:\Users\doomhmmr\Desktop\BasicRestApplication\TestClient\obj\Debug\TestClient.pdb
+C:\Users\doomhmmr\Desktop\BasicRestApplication\TestClient\bin\Debug\TestClient.exe
+C:\Users\doomhmmr\Desktop\BasicRestApplication\TestClient\bin\Debug\TestClient.pdb
+C:\Users\doomhmmr\Desktop\BasicRestApplication\TestClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\doomhmmr\Desktop\BasicRestApplication\TestClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\doomhmmr\Desktop\BasicRestApplication\TestClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\doomhmmr\Desktop\BasicRestApplication\TestClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\doomhmmr\Desktop\BasicRestApplication\TestClient\obj\Debug\TestClient1.csprojResolveAssemblyReference.cache

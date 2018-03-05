@@ -1,0 +1,29 @@
+﻿@model temporary.Models.ApplicationActivationModel
+
+@{
+    ViewBag.Title = "ActivateAnApplication";
+}
+
+<h2>Activate An Application</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+
+        <label for="Username">Select Application for Activating</label> &nbsp;&nbsp;
+        @Html.DropDownListFor(m => m.SelectedApplication, Model.Applications
+                , "Select")
+
+        <br><br>
+
+        <input type="submit" value="Activate" class="btn btn-default" />
+    </div>
+    <br>
+}
+
+<div>
+    <h5> @Html.ActionLink("Back to Admin Page", "AdminPage")</h5>
+</div>
+

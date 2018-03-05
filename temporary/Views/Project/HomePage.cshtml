@@ -1,0 +1,24 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="~/styling.css">
+    </head>
+<body>
+    <div>
+        <h3 style="text-align : center">Home Page</h3> 
+        <h3 style="text-align : center">@Html.ActionLink("User?", "UserLoginPage")</h3>
+        <h3 style="text-align : center">If you are a user please click here... </h3>
+
+        <h3 style="text-align : center">@Html.ActionLink("Admin?", "AdminNew")</h3>
+        <h3 style="text-align : center">If you want to login as admin, click here.. </h3>
+
+    </div>
+</body>
+</html>

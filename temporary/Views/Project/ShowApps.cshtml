@@ -1,0 +1,20 @@
+﻿@model ICollection<temporary.Models.ApplicationManager>
+
+@{
+    ViewBag.Title = "AllApps";
+}
+
+<head>
+    <link rel="stylesheet" type="text/css" href="~/styling.css">
+    </head>
+
+<body>
+    <h4>ApplicationsS List</h4>
+<ul>
+    @foreach (temporary.Models.ApplicationManager apps in Model)
+    {
+        <li>@apps.applicationName</li>
+    }
+</ul>
+    </body>
+

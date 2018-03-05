@@ -1,0 +1,29 @@
+﻿@model ICollection<Tempdata.Errorlogs>
+
+@{
+    ViewBag.Title = "ViewLog";
+}
+
+<h4>Errors Logged</h4>
+<br><br>
+<table align="center" , border="1">
+    <tr>
+        <th>ErrorLog level</th>
+        <th>Error Description </th>
+    </tr>
+    @foreach (var error in Model)
+    {
+        <tr>
+            <td> @error.Loglevel</td>
+            <td> @error.ErrorLogText</td>
+        </tr>
+    }
+</table>
+
+@Html.ActionLink("Search Logs by Log level", "SearchLogs")<br>
+
+<style type="text/css">
+    th, td {
+        padding: 0 15px 0 15px;
+    }
+</style>

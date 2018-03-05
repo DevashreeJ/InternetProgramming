@@ -1,0 +1,24 @@
+﻿@model temporary.Models.ShowAppsToSpecificUser
+@{
+    ViewBag.Title = "ShowAppsToUsers";
+}
+
+<head>
+    <link rel="stylesheet" type="text/css" href="~/styling.css">
+</head>
+<div>
+    <br><br>
+    <h4>Hi @Model.firstNameOfTheUser !! </h4>
+     <br> 
+    <h4>Your Active Apps !</h4>
+    <hr />
+    <ul>
+    @foreach (var app in Model.ApplicationOwned)
+    {
+        <li>@app @Html.ActionLink("See ErrorLogs","ViewLog",new {appname=@app}) </li>
+    }
+    </ul>
+</div>
+<div>
+<h5> @Html.ActionLink("Back to home page", "UserLogin")</h5>
+</div>

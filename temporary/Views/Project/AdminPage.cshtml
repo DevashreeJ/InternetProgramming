@@ -1,0 +1,23 @@
+﻿
+@model temporary.Models.Admin
+@{
+    ViewBag.Title = "AdminPage";
+}
+
+<head>
+    <link rel="stylesheet" type="text/css" href="~/styling.css">
+    </head>
+<body>
+    <div>
+        <h3 style="text-align : center">Admin Page</h3>
+        <h3 style="text-align : center">@Html.ActionLink("Add new User", "AddUserPage")</h3>
+        <h3 style="text-align : center">@Html.ActionLink("Delete A user", "DeleteUserPage")</h3>    
+        <h3 style="text-align : center">@Html.ActionLink("Edit User Data", "EditUser")</h3>
+        <h3 style="text-align : center">@Html.ActionLink("Show All users", "ShowUsers")</h3>
+        <h3 style="text-align : center">@Html.ActionLink("Add an Application", "applicationInfo")</h3>
+        <h3 style="text-align : center">@Html.ActionLink("Delete An Application", "DeleteApp")</h3>
+        <h3 style="text-align : center">@Html.ActionLink("Show All Apps", "ShowApps")</h3>
+        <h3 style="text-align : center">@Html.ActionLink("Home", "HomePage")</h3>
+     
+    </div>
+</body>
