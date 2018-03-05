@@ -1,0 +1,65 @@
+﻿<script type="text/javascript">
+    function GetData(id) {
+        var url = 'http://localhost:31983/Api/Values/' + id;
+
+        $.ajax({
+            url: url,
+            type: 'GET',
+            dataType: 'json',
+            success: function (data) {
+                $('#results').text('id: ' + data.Id + ', Text:' + data.Text);
+            },
+            error: function () {
+                $('#results').text('whooops');
+            }
+        });
+    }
+
+    function PostData(id) {
+        var url = 'http://localhost:31983/Api/Values/';
+
+        var data = new Object();
+        data.Id = id;
+        data.Text = 'Initial new value';
+
+        $.ajax({
+            url: url,
+            type: 'POST',
+            data: JSON.stringify(data),
+            contentType: "application/json; charset=utf-8",
+            success: function () {
+                $('#results').text('success');
+            }
+        });
+    }
+
+    var i = 1000;
+    function PutData(id) {
+        var url = 'http://localhost:31983/Api/Values/' + id;
+
+        var data = new Object();
+        data.Id = id;
+        data.Text = 'Hello - ' + (i++);
+
+        $.ajax({
+            url: url,
+            type: 'PUT',
+            data: JSON.stringify(data),
+            contentType: "application/json; charset=utf-8",
+            success: function (data) {
+                $('#results').text('success');
+            }
+        });
+    }
+</script>
+
+<input type="button" value="Get Id 1" onclick="GetData(1);" />
+<input type="button" value="Get Id 100" onclick="GetData(100);" />
+
+<br />
+
+<input type="button" value="Post a new object with Id 100" onclick="PostData(100);" />
+<input type="button" value="Get Id 100" onclick="GetData(100);" />
+<input type="button" value="Put Id 100 w/ a new value" onclick="PutData(100);" />
+
+<div id="results" style="height:300px; width:300px;"></div>
